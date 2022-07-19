@@ -1,7 +1,7 @@
 name = "monokai-pro"
 display-name = "Monokai Pro"
 description = "Monokai Pro theme generated using subtheme"
-version = "0.0.1"
+version = "0.0.2"
 author = "jath03"
 repository = "jath03/lapce-monokai-pro"
 themes = [
